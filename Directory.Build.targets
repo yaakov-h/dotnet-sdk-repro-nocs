@@ -1,0 +1,7 @@
+<Project>
+	<ItemGroup>
+		<!--<Compile Include="$(MSBuildThisFileDirectory)Included.cs">
+			<Link>Included.cs</Link>
+		</Compile>-->
+	</ItemGroup>
+</Project>
